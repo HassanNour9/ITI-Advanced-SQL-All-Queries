@@ -1,1 +1,1 @@
-# ITI-Advanced-SQL-All-Querys
+# ITI-Advanced-SQL-All-Queries
